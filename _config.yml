@@ -19,6 +19,8 @@ social:
     url: https://github.com/saifpirjade
   - title: facebook
     url: https://www.facebook.com/saif.pirjade
+  - title: twitter
+    url: https://twitter.com/saifpirjade
 
 # Build settings
 theme: minima
