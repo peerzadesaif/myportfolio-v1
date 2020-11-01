@@ -78,7 +78,7 @@
     - thing: Axios
 
 - name: Empire Cinemas
-  url: 
+  url: https://empirecinemas.com.sa/
   code: 
   projectfor: For Saudi Arabia, Lebanon, Iraq
   description: Movie tickets booking across all cinemas in ​Saudi Arabia, Lebanon, Iraq​.
@@ -103,7 +103,7 @@
     - thing: Axios
   
 - name: People Matters cohort
-  url: https://missmalini.com/
+  url: https://sandbox.peoplematters.io/
   code: 
   projectfor: For People Matters Media
   description: India's favourite source for the latest Bollywood & Indian TV news, celebrity gossip, fashion trends, beauty tips and lifestyle updates!
