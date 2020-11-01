@@ -49,3 +49,67 @@
     - thing: CSS
     - thing: Axios
     - thing: Php
+
+- name: Boupon
+  url: https://boupon.com/
+  code: 
+  projectfor: For Jatra International Private Ltd
+  description: Boupon (Jatra International Private Ltd.) is Bangladesh’s first online service ecommerce Platform that enables Users to recharge their mobile and can get value coupons at their favourite restaurants, cafes, beauty parlours and electronic stores.
+  used: 
+    - thing: JavaScript
+    - thing: NodeJs
+    - thing: VueJS
+    - thing: Express
+    - thing: CSS
+    - thing: Axios
+
+- name: BRIJ
+  url: 
+  code: 
+  projectfor: For Binary Numbers ItZone LLP
+  description: BRIJ designs and develops cinema management software for the global cinema exhibitor industry. BRIJ is a fully customizable cinema enterprise system. An integrated, scalable, modular and powerful way to boost your box office.
+  used: 
+    - thing: JavaScript
+    - thing: NodeJs
+    - thing: VueJS
+    - thing: Express
+    - thing: BootstrapVue
+    - thing: CSS
+    - thing: Axios
+
+- name: Empire Cinemas
+  url: 
+  code: 
+  projectfor: For Saudi Arabia, Lebanon, Iraq
+  description: Movie tickets booking across all cinemas in ​Saudi Arabia, Lebanon, Iraq​.
+  used: 
+    - thing: JavaScript
+    - thing: VueJS
+    - thing: BootstrapVue
+    - thing: CSS
+    - thing: Axios
+    - thing: Php
+
+- name: Miss Malini
+  url: https://missmalini.com/
+  code: 
+  projectfor: For missmalini.com India
+  description: India's favourite source for the latest Bollywood & Indian TV news, celebrity gossip, fashion trends, beauty tips and lifestyle updates!
+  used: 
+    - thing: JavaScript
+    - thing: ReactJS
+    - thing: BootstrapVue
+    - thing: CSS
+    - thing: Axios
+  
+- name: People Matters cohort
+  url: https://missmalini.com/
+  code: 
+  projectfor: For People Matters Media
+  description: India's favourite source for the latest Bollywood & Indian TV news, celebrity gossip, fashion trends, beauty tips and lifestyle updates!
+  used: 
+    - thing: JavaScript
+    - thing: ReactJS
+    - thing: BootstrapVue
+    - thing: CSS
+    - thing: Axios
