@@ -24,6 +24,12 @@ body {
   line-height: 1.5;
   width: 100%;
 
+  .header-wrapper a{
+    color: $darkpurple;
+  }
+  .grey-color {
+    color: $greycolor;
+  }
   &.night {
     background-color: $night;
     color: $slate;
@@ -52,6 +58,9 @@ body {
     }
     .section__content .underline-link:after {
       background: $off-white;
+    }
+    .header-wrapper a{
+      color: $white;
     }
   }
 }
