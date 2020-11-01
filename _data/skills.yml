@@ -1,0 +1,39 @@
+languages:
+  - item: JavaScript
+  - item: TypeScript
+  - item: JQuery
+  - item: PHP
+  - item: Ajax/Axios
+  - item: HTML
+  - item: CSS/Scss
+  - item: Python
+  - item: MySQL
+  - item: MongoDB
+
+frameworks:
+  - item: Node
+  - item: React
+  - item: Vue
+  - item: Angular
+  - item: Jekyll
+  - item: Bootstrap
+
+tools:
+  - item: Git & Github
+  - item: Bitbucket
+  - item: Gulp
+  - item: Bash
+  - item: Postman
+  - item: Robo Mongo
+
+paymentgetaways: 
+  - item: PayPal
+  - item: Stripe
+  - item: Paytm
+
+technologies:
+  - item: Web Designing
+  - item: Web Development
+
+cloudplatform:
+  - item: AWS and Google Cloud Platform

@@ -1,0 +1,51 @@
+- name: Leads Management System
+  url: https://www.damacproperties.com/en/
+  code: 
+  projectfor: For DAMAC Properties Dubai
+  description: Lead management is the process of capturing leads, tracking their activities and behaviour, qualifying them, giving them constant attention to make them sales-ready, and then passing them on to the sales team.
+  used:
+    - thing: JavaScript
+    - thing: NodeJs
+    - thing: VueJS
+    - thing: Axios
+    - thing: Saleforce API
+    - thing: Nexmo API
+    - thing: Zero Bounce API
+
+- name: CMS/Website Builder 
+  url: https://www.damacproperties.com/en/
+  code: 
+  projectfor: For DAMAC Properties Dubai
+  description: A company wanted to build a website page according to the business rules.
+  used:
+    - thing: JavaScript
+    - thing: NodeJs
+    - thing: VueJS
+    - thing: EJS
+    - thing: AJAX
+
+- name: Ticketak 
+  url: https://ticketak.com/
+  code: 
+  projectfor: For UAE
+  description: Movie tickets booking across all the cinemas in UAE.
+  used:
+    - thing: JavaScript
+    - thing: VueJS
+    - thing: BootstrapVue
+    - thing: CSS
+    - thing: Axios
+    - thing: Php
+
+- name: GoGoCinema
+  url: https://gogocinema.com/
+  code: 
+  projectfor: For GDC Technology Limited Singapore
+  description: GoGoCinemas makes it possible for audience to enjoy all genres of movies, current or past-releases from independent films to major blockbusters on the big screen, when and where they want.
+  used: 
+    - thing: JavaScript
+    - thing: VueJS
+    - thing: BootstrapVue
+    - thing: CSS
+    - thing: Axios
+    - thing: Php
