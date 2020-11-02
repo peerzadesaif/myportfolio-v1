@@ -29,16 +29,9 @@
       </div>
 
       <div class="skillz__category">
-        <div class="skillz__category__label">Payment Getaways</div>
+        <div class="skillz__category__label">Key Skills</div>
         <ul>
-          {% for thing in site.data.skills.paymentgetaways %}
-          <li class="skillz__category__item">{{thing.item}}</li>
-          {% endfor %}
-        </ul>
-        <br />
-        <div class="skillz__category__label">Technologies</div>
-        <ul>
-          {% for thing in site.data.skills.technologies %}
+          {% for thing in site.data.skills.key_skills %}
           <li class="skillz__category__item">{{thing.item}}</li>
           {% endfor %}
         </ul>
@@ -46,6 +39,13 @@
         <div class="skillz__category__label">Cloud Platform</div>
         <ul>
           {% for thing in site.data.skills.cloudplatform %}
+          <li class="skillz__category__item">{{thing.item}}</li>
+          {% endfor %}
+        </ul>
+        <br />
+        <div class="skillz__category__label">Payment Getaways</div>
+        <ul>
+          {% for thing in site.data.skills.paymentgetaways %}
           <li class="skillz__category__item">{{thing.item}}</li>
           {% endfor %}
         </ul>

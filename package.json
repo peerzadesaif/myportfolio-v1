@@ -1,0 +1,33 @@
+{
+  "name": "myportfolio-v1",
+  "version": "1.0.0",
+  "description": "A simple portfolio made for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "bundle exec jekyll serve",
+    "dev": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build",
+    "deploy": "npm run build && netlify deploy --dir=_site && netlify deploy --dir=_site --prod ",
+    "pord:deploy": "netlify deploy --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifpirjade/myportfolio-v1.git"
+  },
+  "keywords": [
+    "portfolio",
+    "saif",
+    "saif",
+    "portfolio",
+    "Jekyll",
+    "node",
+    "npm"
+  ],
+  "author": "Saif <saif.pirjade@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saifpirjade/myportfolio-v1/issues"
+  },
+  "homepage": "https://github.com/saifpirjade/myportfolio-v1#readme"
+}

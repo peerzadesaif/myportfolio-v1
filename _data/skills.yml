@@ -11,7 +11,7 @@ languages:
   - item: MongoDB
 
 frameworks:
-  - item: Node
+  - item: Express/NodeJs
   - item: React
   - item: Vue
   - item: Angular
@@ -31,9 +31,13 @@ paymentgetaways:
   - item: Stripe
   - item: Paytm
 
-technologies:
-  - item: Web Designing
-  - item: Web Development
+key_skills:
+  - item: Web Development & Maintenance
+  - item: Backend Development
+  - item: Payment Module Integration
+  - item: REST API Development
+  - item: Third Party API Integration
+  - item: API design knowledge
 
 cloudplatform:
   - item: AWS and Google Cloud Platform
