@@ -25,16 +25,16 @@
       font-size: 2.20rem;
     }
     @include tablet {
-      font-size: 1.2rem;
+      font-size: 1.5rem;
     }
     @include phablet {
-      font-size: 1.0rem;
+      font-size: 1.5rem;
     }
     @include small-mobile {
-      font-size: 1.0rem;
+      font-size: 1.5rem;
     }
     @include tiny-mobile {
-      font-size: 1.0rem;
+      font-size: 1.5rem;
     }
     .emoji {
       width: 40px;
@@ -107,7 +107,7 @@
     font-size: 1.25rem;
     font-weight: 400;
     @include phablet {
-      font-size: 1rem;
+      font-size: 1.08rem;
     }
     .emoji {
       &.pointer {
