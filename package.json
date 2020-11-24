@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saifpirjade/myportfolio-v1.git"
+    "url": "git+https://github.com/peerzadesaif/myportfolio-v1.git"
   },
   "keywords": [
     "portfolio",
@@ -28,7 +28,7 @@
   "author": "Saif <saif.pirjade@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saifpirjade/myportfolio-v1/issues"
+    "url": "https://github.com/peerzadesaif/myportfolio-v1/issues"
   },
-  "homepage": "https://github.com/saifpirjade/myportfolio-v1#readme"
+  "homepage": "https://github.com/peerzadesaif/myportfolio-v1#readme"
 }
