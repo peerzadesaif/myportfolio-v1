@@ -11,16 +11,18 @@ url: "https://sayeaf.me/" # the base hostname & protocol for your site, e.g. htt
 cover: https://sayeaf.me/assets/metaimage.png
 resume: https://sayeaf.me/assets/Resume_me.pdf
 twitter_username: saifpirjade
-github_username:  saifpirjade
+github_username: saifpirjade
 social:
   - title: email
     url: mailto:saif.pirjade@gmail.com
   - title: github
-    url: https://github.com/saifpirjade
+    url: https://github.com/peerzadesaif
   - title: facebook
-    url: https://www.facebook.com/saif.pirjade
+    url: https://www.facebook.com/peerzade.saif
   - title: twitter
-    url: https://twitter.com/saifpirjade
+    url: https://twitter.com/peerzadesaif
+  - title: linkedin
+    url: https://www.linkedin.com/in/peerzadesaif/
 
 # Build settings
 theme: minima
@@ -44,8 +46,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules/
-  - '*.gemspec'
-  - 'README.md'
-  - 'package.json'
-
- 
+  - "*.gemspec"
+  - "README.md"
+  - "package.json"
